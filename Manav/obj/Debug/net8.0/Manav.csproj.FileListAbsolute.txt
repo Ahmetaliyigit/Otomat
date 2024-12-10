@@ -1,0 +1,15 @@
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\bin\Debug\net8.0\Manav.exe
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\bin\Debug\net8.0\Manav.deps.json
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\bin\Debug\net8.0\Manav.runtimeconfig.json
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\bin\Debug\net8.0\Manav.dll
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\bin\Debug\net8.0\Manav.pdb
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\Manav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\Manav.AssemblyInfoInputs.cache
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\Manav.AssemblyInfo.cs
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\Manav.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\Manav.sourcelink.json
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\Manav.dll
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\refint\Manav.dll
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\Manav.pdb
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\Manav.genruntimeconfig.cache
+C:\Users\EXCALIBUR\Documents\My Web Sites\ConsoleApp1\Manav\obj\Debug\net8.0\ref\Manav.dll
